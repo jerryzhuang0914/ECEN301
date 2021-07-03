@@ -1,0 +1,1 @@
+"./GPIO.o" "./LED.o" "./UART.o" "./clock_module.o" "./control_module.o" "./pad.o" "./serial.o" "./start.o" "./startup_ARMCA8.o" -Wl,-T"../AM335x.lds" 
